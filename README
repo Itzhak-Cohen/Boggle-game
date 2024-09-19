@@ -1,1 +1,15 @@
-<Describe your project's features here>
+# Boggle Game in Python
+
+## Description
+This project is a Python implementation of the classic Boggle word game.
+The game generates a 4x4 grid of random letters, and players try to find as many words as possible by connecting adjacent letters within a time limit.
+
+## Features
+- Randomized 4x4 letter grid generation.
+- Word validation against a standard English dictionary.
+- Score calculation based on word length.
+- User-friendly command-line interface.
+
+## How to Play
+1. Run the code on python IDE
+2. Have fun
